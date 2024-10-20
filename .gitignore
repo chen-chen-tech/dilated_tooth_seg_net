@@ -8,7 +8,6 @@ tensorboard_logs/
 logs/
 data/*
 *.npz
-*.ipynb
 *.pyc
 experiment_config/
 *.stl
